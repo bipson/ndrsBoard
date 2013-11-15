@@ -21,10 +21,10 @@ module NdrsBoard
     # config.i18n.default_locale = :de
     
     # configure the application to always use ssl
-    config.force_ssl = true
+    # config.force_ssl = true
 
     # filter passwords from the log
-    config.filter_parameters = :password
+    #config.filter_parameters = :password
 
   end
 end
