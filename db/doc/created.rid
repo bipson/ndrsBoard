@@ -1,7 +1,0 @@
-Fri, 11 Apr 2014 22:43:40 +0200
-./seeds.rb	Tue, 12 Nov 2013 20:05:50 +0100
-./schema.rb	Fri, 15 Nov 2013 18:36:39 +0100
-./migrate/20131115163329_create_users.rb	Fri, 15 Nov 2013 18:27:43 +0100
-./migrate/20131112201501_create_posts.rb	Tue, 12 Nov 2013 21:15:01 +0100
-./migrate/20131113185425_create_comments.rb	Wed, 13 Nov 2013 19:54:25 +0100
-./migrate/20131115171920_add_devise_to_users.rb	Fri, 15 Nov 2013 18:36:37 +0100
